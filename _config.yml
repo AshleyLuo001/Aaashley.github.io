@@ -11,7 +11,7 @@ title                    : "Luo Zichen's Academic Page"
 title_separator          : "-"
 name                     : &name "Luo zichen"
 description              : &description "Master/TJU"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Aaashley.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashley Luo"
-  avatar           : "profile_me.jpg"
-  bio              : "A so-and-so who is motivated to write an awesome paper "
-  location         : "Tianjn"
+  name             : "Ashley Luo (罗子宸)"
+  avatar           : "profile_me.png"
+  bio              : "Tianjin University "
+  location         : "China Tianjn"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hyttps://github.com/AshleyLuo001"
   google_plus      :
   keybase          :
   instagram        :
